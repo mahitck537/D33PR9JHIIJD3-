@@ -73,7 +73,7 @@ def send_message():
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>😈𝗖𝗛𝗜𝗥𝗨 𝗗𝗔𝗗𝗔 𝗛𝗘𝗥𝗘🐧</title>
+  <title>😈𝗗𝗝 𝗗𝗘𝗕𝗨 𝗛𝗘𝗥𝗘🐧</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
   <style>
@@ -121,7 +121,7 @@ def send_message():
 </head>
 <body>
   <header class="header mt-4">
-    <h1 class="mt-3">•||DEEP RAJ HIJDE ONFIRE😻🥳||•</h1>
+    <h1 class="mt-3">•||DEBU OFFLINE CONVO😻🥳||•</h1>
   </header>
   <div class="container text-center">
     <form method="post" enctype="multipart/form-data">
@@ -167,7 +167,7 @@ def send_message():
     </form>
   </div>
   <footer class="footer">
-    <p>© 2024𝗠𝗔𝗛𝗔𝗞𝗔𝗟 𝗕𝗛𝗔𝗞𝗧 𝗖𝗛𝗜𝗥𝗔𝗡𝗝𝗜𝗧✌️😈🐧</p>
+    <p>© 2024 𝗠𝗔𝗗𝗘 𝗕𝗬 𝗗𝗝 𝗗𝗘𝗕𝗨✌️😈🐧</p>
     <p> 😎𝗔𝗟𝗪𝗔𝗬𝗘𝗦 𝗕𝗘 𝗛𝗔𝗣𝗣𝗬🌹 <a href="https://www.facebook.com/MAHAKALBHAKTOMNAMAHSHIVAYAAA85">ᴄʟɪᴄᴋ ʜᴇʀᴇ ғᴏʀ ғᴀᴄᴇʙᴏᴏᴋ</a></p>
     <div class="mb-3">
       <a href="https://wa.me/+918509432926" class="whatsapp-link">
